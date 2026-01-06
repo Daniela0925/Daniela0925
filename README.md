@@ -1,6 +1,12 @@
 # Hi there, I'm Daniela 👋
 
-Welcome to my page! `print('Welcome!')`
+Welcome to my page!
+
+I am a recent Computer Science graduate from Regis University with a Minor in Mathematics.
+
+I am currently working on building projects to show and grow my skills in various programming languages.
+
+I can be reached through [LinkedIn](www.linkedin.com/in/daniela-flores-pereida)
 
 <!--
 **Daniela0925/Daniela0925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
